@@ -1,3 +1,0 @@
-# ugroh.github.io
-
-MyProjects
