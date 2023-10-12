@@ -58,4 +58,6 @@ erschienen sind.
     möglichen Zügen in der Anfangsphase eines Spiels und ist ein Auszug
     aus einem Sonderheft von *Gekkan Go Gaku* -- 別冊 月刊碁学
     Monatliche Go-Schule -- des [Kansai
-    Kiin](https://senseis.xmp.net/?KansaiKiIn).
+    Kiin](https://senseis.xmp.net/?KansaiKiIn). Dies findet man [unter
+    diesen
+    Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-Gefuehl)
