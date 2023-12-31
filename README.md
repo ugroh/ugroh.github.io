@@ -24,3 +24,5 @@ Die unten aufgeführten Beiträge sind im SmartGo- bzw. EPUB-Format verfügbar. 
 * Beitrag DGoZ xx/202y: In diesem Beitrag geht es um die Bewertung von möglichen Zügen in der Anfangsphase eines Spiels und ist ein Auszug aus einem Sonderheft von *Gekkan Go Gaku* – 別冊 月刊碁学 Monatliche Go-Schule – des [Kansai Kiin](https://senseis.xmp.net/?KansaiKiIn). Dies findet man [unter diesen Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-Gefuehl)
   
 * IZIS: Hier finden sich Ergänzungen zu den Videos auf YouTube von Tobias Berben und dem [englischen Manual](http://121.41.64.145:8089/book/English%20Manual%20%20V2.pdf) zum <a href="https://eurogojournal.com/blog/ai-go-board/">IZIS AI Board</a>. Dies ist bei der Einarbeitung in die Handhabung dieses Go-Brettes entstanden und ich hoffe, dies hilft auch anderen bei den ersten Schritten. 
+
+	Hier der <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/Mein-IZIS-Handbuch.pdf" target="_blank"> Link</a> zu meinen Ergänzungen.
