@@ -18,11 +18,9 @@ Die unten aufgeführten Beiträge sind im SmartGo- bzw. EPUB-Format verfügbar. 
 
 * Beitrag DGoZ 05/2023: Etwas zum [\"Lexikon der Strategie\"](https://www.amazon.co.jp/作戦辞典-瀬越-憲作/dp/4416686013) von Segoe, zu finden [unter diesen Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-05-2023)
 
-### Kleinere Beiträge
+### Kleinere Beiträge und anderes
 
-Dies sind kleinere Beiträge für die DGoZ, die eventuell noch nicht
-erschienen sind.
 
 * Beitrag DGoZ xx/202y: In diesem Beitrag geht es um die Bewertung von möglichen Zügen in der Anfangsphase eines Spiels und ist ein Auszug aus einem Sonderheft von *Gekkan Go Gaku* – 別冊 月刊碁学 Monatliche Go-Schule – des [Kansai Kiin](https://senseis.xmp.net/?KansaiKiIn). Dies findet man [unter diesen Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-Gefuehl)
   
-* IZIS: Hier finden sich Ergänzungen zum Handbuch für das IZIS AI Board.
+* IZIS: Hier finden sich Ergänzungen zu den Videos auf YouTube von Tobias Berben und dem [englischen Manual](http://121.41.64.145:8089/book/English%20Manual%20%20V2.pdf) zum <a href="https://eurogojournal.com/blog/ai-go-board/">IZIS AI Board</a>. Dies ist bei der Einarbeitung in die Handhabung dieses Go-Brettes entstanden und ich hoffe, dies hilft auch anderen bei den ersten Schritten. 
