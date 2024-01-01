@@ -25,7 +25,7 @@ Die unten aufgeführten Beiträge sind im SmartGo- bzw. EPUB-Format verfügbar. 
   
 * IZIS: Hier finden sich Ergänzungen zu den Videos auf YouTube von Tobias Berben und dem [englischen Manual](http://121.41.64.145:8089/book/English%20Manual%20%20V2.pdf) zum <a href="https://eurogojournal.com/blog/ai-go-board/">IZIS AI Board</a>. Dies ist bei der Einarbeitung in die Handhabung dieses Go-Brettes entstanden und ich hoffe, dies hilft auch anderen bei den ersten Schritten. 
 
-	Hier der <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/Mein-IZIS-Handbuch.pdf" target="_blank"> Link</a> zu meinen Ergänzungen und zu der englischen Version  <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/en-IZIS-Manual" target="_blank"> englischen Version.</a>
+	Hier der <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/Mein-IZIS-Handbuch.pdf" target="_blank"> Link</a> zu meinen Ergänzungen und zu der englischen Version  <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/en-IZIS-Manual.pdf" target="_blank"> englischen Version.</a>
 
 
 
@@ -57,5 +57,5 @@ The contributions listed below are available in SmartGo and EPUB formats. You ca
 
 * IZIS: Here, you will find supplements to the YouTube videos by Tobias Berben and the [English manual](http://121.41.64.145:8089/book/English%20Manual%20%20V2.pdf) for the [IZIS AI Board](https://eurogojournal.com/blog/ai-go-board/). These were created during the familiarization process with this Go board, and I hope they assist others in their initial steps.
 
-Here is the <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/Mein-IZIS-Handbuch.pdf" target="_blank"> Link</a> to my supplements and to the <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/Mein-IZIS-Handbuch.pdf" target="_blank"> English version</a>.
+Here is the <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/Mein-IZIS-Handbuch.pdf" target="_blank"> Link</a> to my supplements and to the <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/en-IZIS-Manual.pdf" target="_blank"> English version</a>.
 
