@@ -57,4 +57,4 @@ The contributions listed below are available in SmartGo and EPUB formats. You ca
 
 * IZIS: Here, you will find supplements to the YouTube videos by Tobias Berben and the [English manual](http://121.41.64.145:8089/book/English%20Manual%20%20V2.pdf) for the [IZIS AI Board](https://eurogojournal.com/blog/ai-go-board/). These were created during the familiarization process with this Go board, and I hope they assist others in their initial steps.
 
-  Here is the [link](https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/Mein-IZIS-Handbuch.pdf) to my supplements and to the [English version](https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/en-IZIS-Manual.pdf).
+  Here is the <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/Mein-IZIS-Handbuch.pdf" target="_blank"> Link</a> to my supplements and to the <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/en-IZIS-Manual" target="_blank"> englischen Version.</a>.
