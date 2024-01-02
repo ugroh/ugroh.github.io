@@ -8,7 +8,7 @@ Here you will find supplements to the YouTube videos by Tobias Berben and the [E
 * German Version: <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/de-IZIS-Manual.pdf" target="_blank">de-IZIS-Manual.pdf </a> 
 
 * Supplement:
-	* <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/en-IZIS-Handbuch.pdf" target="_blank">Chinese Version of the Exercises </a>    
+	* <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/en-06-Exercise-cn.pdf" target="_blank">Chinese Version of the Exercises </a>    
 	                                                          
 If there are questions, please  [send me a mail.](mailto:ugroh@mac.com) 
 
