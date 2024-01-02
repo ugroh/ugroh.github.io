@@ -2,16 +2,14 @@
 
 Here you will find supplements to the YouTube videos by Tobias Berben and the [English manual](http://121.41.64.145:8089/book/English%20Manual%20%20V2.pdf) for the [IZIS AI Board](https://eurogojournal.com/blog/ai-go-board/). These were created during the familiarization process with this Go board, and I hope they assist others in their initial steps. Anything highlighted in blue is a link – just click on it.
 
-| **The Manual** |                                                              |
-| :------------------------------- | ------------------------------------------------------------ |
-| English Version                  | <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/en-IZIS-Manual.pdf" target="_blank"> en-IZIS-Manual.pdf</a> |
-| German Version                   | <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/Mein-IZIS-Handbuch.pdf" target="_blank">de-IZIS-Manual.pdf </a> |
-| **Supplement:**                  |                                                              |
-| Chinese Version of the Exercises | <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/Mein-IZIS-Handbuch.pdf" target="_blank">en-06-Exercise-cn.pdf </a>                                                              |
-|                 |                                                              |
-|                                  |                                                              |
-|                                  |                                                              |
 
+*	English Version: <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/en-IZIS-Manual.pdf" target="_blank"> en-IZIS-Manual.pdf</a> 
+
+* German Version: <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/Mein-IZIS-Handbuch.pdf" target="_blank">de-IZIS-Manual.pdf </a> 
+
+* Supplement:
+	* <a href="https://github.com/ugroh/ugroh.github.io/blob/main/IZIS/Mein-IZIS-Handbuch.pdf" target="_blank">Chinese Version of the Exercises </a>    
+	                                                          
 If there are questions, please  [send me a mail.](mailto:ugroh@mac.com) 
 
 
@@ -39,7 +37,7 @@ Die unten aufgeführten Beiträge sind im SmartGo- bzw. EPUB-Format verfügbar. 
 ### Kleinere Beiträge
 
 
-* Beitrag DGoZ xx/202y: In diesem Beitrag geht es um die Bewertung von möglichen Zügen in der Anfangsphase eines Spiels und ist ein Auszug aus einem Sonderheft von *Gekkan Go Gaku* – 別冊 月刊碁学 Monatliche Go-Schule – des [Kansai Kiin](https://senseis.xmp.net/?KansaiKiIn). Dies findet man [unter diesen Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-Gefuehl)
+* In diesem Artikel geht es um die Bewertung von möglichen Zügen in der Anfangsphase eines Spiels und ist ein Auszug aus einem Sonderheft von *Gekkan Go Gaku* – 別冊 月刊碁学 Monatliche Go-Schule – des [Kansai Kiin](https://senseis.xmp.net/?KansaiKiIn). Diesen Artikel findet man [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-Gefuehl)
 
 
 
