@@ -22,7 +22,7 @@ Zum Lesen der GoBooks benötigt man die SmartGo-App -- siehe hierzu <https://gob
 
 Bei Problemen: Da langt [eine Mail an mich](mailto:ugroh@mac.com) und ich helfe.
 
-Die unten aufgeführten Beiträge sind im SmartGo- bzw. EPUB-Format verfügbar. Einen Reader für das SmartGo-Format findet man etwa im App-Store (siehe auch [SmartGo)](https://smartgo.com) und einen Reader für das EPUB-Format [etwa mit Hilfe diesesArtikels.](https://www.chip.de/news/E-Book-Tools-fuer-Windows-10-Das-sind-die-Top-3_182511780.html) Man kann sich die gewünschte Datei herunterladen: Dazu diese mit derrechten Maustaste auswählen und im \`raw-Format\` herunterladen (Symbol ganz rechts mit dem Pfeil nach unten).
+Die unten aufgeführten Beiträge sind im SmartGo- bzw. EPUB-Format verfügbar. Einen Reader für das SmartGo-Format findet man etwa im App-Store (siehe auch [SmartGo)](https://smartgo.com) und einen Reader für das EPUB-Format [etwa mit Hilfe diesesArtikels.](https://www.chip.de/news/E-Book-Tools-fuer-Windows-10-Das-sind-die-Top-3_182511780.html) Man muss sich die gewünschte Datei herunterladen: Dazu diese mit derrechten Maustaste auswählen und im \`raw-Format\` herunterladen (Symbol ganz rechts mit dem Pfeil nach unten).
 
 ### Über fünf Bücher von Segoe Kensaku 瀬越憲作
 
