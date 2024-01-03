@@ -3,12 +3,11 @@
 Here you will find supplements to the YouTube videos by Tobias Berben and the [English manual](http://121.41.64.145:8089/book/English%20Manual%20%20V2.pdf) for the [IZIS AI Board](https://eurogojournal.com/blog/ai-go-board/). These were created during the familiarization process with this Go board, and I hope they assist others in their initial steps. Anything highlighted in blue is a link – just click on it.
 
 
-*	English Version: <a href="https://ugroh.github.io/IZIS/en-IZIS-Manual.pdf"> en-IZIS-Manual.pdf</a> 
+*	English Version: [en-IZIS-Manual.pdf](https://ugroh.github.io/IZIS/en-IZIS-Manual.pdf)  
 
-* German Version: <a href="https://ugroh.github.io/IZIS/de-IZIS-Manual.pdf">de-IZIS-Manual.pdf </a> 
+* German Version: [de-IZIS-Manual.pdf](https://ugroh.github.io/IZIS/de-IZIS-Manual.pdf) 
 
-* Supplement:
-	* <a href="https://ugroh.github.io/IZIS/en-06-Ecercise-cn.pdf"> Chinese Version of the Exercises </a>    
+* Supplement: [Chinese Version of the Exercises](https://ugroh.github.io/IZIS/en-06-Ecercise-cn.pdf), also in the above-mentioned manuals.
 	                                                          
 If there are questions, please [send me a mail.](mailto:ugroh@mac.com) 
 
