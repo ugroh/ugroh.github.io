@@ -31,7 +31,7 @@ Die unten aufgeführten Beiträge sind im SmartGo- bzw. EPUB-Format verfügbar. 
 
 * Beitrag DGoZ 3/2023: Über das Buch [\"Stärker werden\"](https://senseis.xmp.net/?TheBookToIncreaseYourFightingStrengthAtGo), zu finden [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-03-2023)
 
-* Beitrag DGoZ 05/2023 ff: Etwas zum [\"Lexikon der Strategie\"](https://www.amazon.co.jp/作戦辞典-瀬越-憲作/dp/4416686013) von Segoe, zu finden [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-05-2023)
+* Beitrag DGoZ 05/2023, 06/2023 und 01/2024: Etwas zum [\"Lexikon der Strategie\"](https://www.amazon.co.jp/作戦辞典-瀬越-憲作/dp/4416686013) von Segoe, zu finden [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-05-2023)
 
 ### Kleinere Beiträge
 
