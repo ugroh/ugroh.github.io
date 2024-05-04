@@ -27,13 +27,13 @@ Die unten aufgeführten Beiträge sind im SmartGo- bzw. EPUB-Format verfügbar. 
 
 [Segoe Kensaku (1889–1972)](https://senseis.xmp.net/?Segoe) war ein Go-Spieler der japanischen <a href="https://de.wikipedia.org/wiki/Taish%C5%8D-Zeit"> Taishō-</a> und <a href="https://de.wikipedia.org/wiki/Sh%C5%8Dwa-Zeit"> Shōwa-Zeitrechnung</a>. Von 1946 bis 1948 war er Vorsitzender des Nihon Ki-in und trug wesentlich zur Popularisierung von Go in Japan bei. Aufgrund seiner sich verschlechternden Gesundheit und weil er vermeiden wollte, jemandem zur Last zu fallen, beging er im Jahr 1972 Selbstmord.
 
-* Beitrag DGoZ 2/2023: Über [\"Go ProverbsIllustrated\"](https://senseis.xmp.net/?GoProverbsIllustrated) und über das [\"Tesuji-Lexikon\"](https://senseis.xmp.net/?SegoeTesujiDictionary), zu finden [unter diesem Link.](https://ugroh.github.io/main/Beitrag-02-2023)
+* Beitrag DGoZ 2/2023: Über [\"Go ProverbsIllustrated\"](https://senseis.xmp.net/?GoProverbsIllustrated) und über das [\"Tesuji-Lexikon\"](https://senseis.xmp.net/?SegoeTesujiDictionary), zu finden [unter diesem Link.](https://ugroh.github.io/main/Beitrag-2023-02)
 
-* Beitrag DGoZ 3/2023: Über das Buch [\"Stärker werden\"](https://senseis.xmp.net/?TheBookToIncreaseYourFightingStrengthAtGo), zu finden [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-03-2023)
+* Beitrag DGoZ 3/2023: Über das Buch [\"Stärker werden\"](https://senseis.xmp.net/?TheBookToIncreaseYourFightingStrengthAtGo), zu finden [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-03)
 
-* Beitrag DGoZ 05/2023, 06/2023 und 01/2024: Etwas zum [\"Lexikon der Strategie\"](https://www.amazon.co.jp/作戦辞典-瀬越-憲作/dp/4416686013) von Segoe, zu finden [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-05-2023)
+* Beitrag DGoZ 05/2023, 06/2023 und 01/2024: Etwas zum [\"Lexikon der Strategie\"](https://www.amazon.co.jp/作戦辞典-瀬越-憲作/dp/4416686013) von Segoe, zu finden [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-05)
 
-* Beitrag DGoZ 02/2023: Etwas über sein [\"Lexikon des Tsume-Go\"](https://senseis.xmp.net/?SegoeTsumegoDictionary), zu finden unter diesem Link.
+* Beitrag DGoZ 02/2023: Etwas über sein [\"Lexikon des Tsume-Go\"](https://senseis.xmp.net/?SegoeTsumegoDictionary), zu finden [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2024-02)
 
 ### Kleinere Beiträge
 
