@@ -27,6 +27,8 @@ Die unten aufgeführten Beiträge sind im SmartGo- bzw. EPUB-Format verfügbar. 
 
 [Segoe Kensaku (1889–1972)](https://senseis.xmp.net/?Segoe) war ein Go-Spieler der japanischen <a href="https://de.wikipedia.org/wiki/Taish%C5%8D-Zeit"> Taishō-</a> und <a href="https://de.wikipedia.org/wiki/Sh%C5%8Dwa-Zeit"> Shōwa-Zeitrechnung</a>. Von 1946 bis 1948 war er Vorsitzender des Nihon Ki-in und trug wesentlich zur Popularisierung von Go in Japan bei. Aufgrund seiner sich verschlechternden Gesundheit und weil er vermeiden wollte, jemandem zur Last zu fallen, beging er im Jahr 1972 Selbstmord.
 
+Alle unten aufgeführten Beiträge findet man unter [https://github.com/ugroh/ugroh.github.io](https://github.com/ugroh/ugroh.github.io)
+
 * Beitrag DGoZ 2/2023: Über [\"Go ProverbsIllustrated\"](https://senseis.xmp.net/?GoProverbsIllustrated) und über das [\"Tesuji-Lexikon\"](https://senseis.xmp.net/?SegoeTesujiDictionary), zu finden [unter diesem Link.](https://ugroh.github.io/main/Beitrag-2023-02)
 
 * Beitrag DGoZ 3/2023: Über das Buch [\"Stärker werden\"](https://senseis.xmp.net/?TheBookToIncreaseYourFightingStrengthAtGo), zu finden [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-03)
