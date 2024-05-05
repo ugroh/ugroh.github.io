@@ -20,7 +20,7 @@ Here you will find supplements to the YouTube videos by Tobias Berben and the [E
 
 Hier finden sich die interaktiven Dateien zu meinen Beiträgen in der [Deutschen Go Zeitung](https://www.dgob.de/info-und-service/deutsche-go-zeitung/). Einfach mal ausprobieren! Alles, was blau unterlegt ist verweist auf eine Link –  anklicken.
 
-Zum Lesen der GoBooks benötigt man die SmartGo-App -- siehe hierzu <https://gobooks.com/devices.html>. Um das EPUB-Buch lesen zu können, benötigt man einen Editor. Hinweise auf diese findet man unter <https://gobooks.com/epub.html>
+Zum Lesen der GoBooks benötigt man die SmartGo-App – siehe hierzu <https://gobooks.com/devices.html>. Um das EPUB-Buch lesen zu können, benötigt man einen Editor. Hinweise auf diese findet man unter <https://gobooks.com/epub.html>
 
 Bei Problemen: Da langt [eine Mail an mich](mailto:ugroh@mac.com) und ich helfe.
 
