@@ -1,19 +1,22 @@
-### IZIS AI Board (as of 2021/01/02)
+## Inhalt von `ugroh.github.io` (Stand 2024-05-05)
+
+[Kontakt](mailto:ugroh@mac.com) 
+
+### IZIS AI Board 
 
 Here you will find supplements to the YouTube videos by Tobias Berben and the [English manual](http://121.41.64.145:8089/book/English%20Manual%20%20V2.pdf) for the [IZIS AI Board](https://eurogojournal.com/blog/ai-go-board/). These were created during the familiarization process with this Go board, and I hope they assist others in their initial steps. Anything highlighted in blue is a link – just click on it.
 
 
-*	English Version: [en-IZIS-Manual.pdf](https://ugroh.github.io/IZIS/en-IZIS-Manual.pdf)  
+* English Version: [en-IZIS-Manual.pdf](https://ugroh.github.io/IZIS/en-IZIS-Manual.pdf)  
 
 * German Version: [de-IZIS-Manual.pdf](https://ugroh.github.io/IZIS/de-IZIS-Manual.pdf) 
 
 * Supplement: [Chinese Version of the Exercises](https://ugroh.github.io/IZIS/en-06-Ecercise-cn.pdf), also in the above-mentioned manuals.
+
+* Added (2024-05-05): Some information about Segoe [Kensaku "TsumeGo Jiten", see](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo) and some information about the *Exercise Course Mode* section there, which contains some interesting exercises (presently in German).
 	                                                          
-If there are questions, please [send me a mail.](mailto:ugroh@mac.com) 
 
-
-
-### Beiträge zu DGoZ (Stand 2024/01/01)
+### Beiträge zu DGoZ 
 
 Hier finden sich die interaktiven Dateien zu meinen Beiträgen in der [Deutschen Go Zeitung](https://www.dgob.de/info-und-service/deutsche-go-zeitung/). Einfach mal ausprobieren! Alles, was blau unterlegt ist verweist auf eine Link –  anklicken.
 
@@ -35,10 +38,11 @@ Alle unten aufgeführten Beiträge findet man unter [ugroh.github.io](https://gi
 
 * Beitrag DGoZ 05/2023, 06/2023 und 01/2024: Etwas zum [\"Lexikon der Strategie\"](https://www.amazon.co.jp/作戦辞典-瀬越-憲作/dp/4416686013) von Segoe, zu finden [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-05)
 
-* Beitrag DGoZ 02/2023: Etwas über sein [\"Lexikon des Tsume-Go\"](https://senseis.xmp.net/?SegoeTsumegoDictionary), zu finden [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2024-02)
+* Beitrag DGoZ 02/2024: Etwas über sein [\"Lexikon des Tsume-Go\"](https://senseis.xmp.net/?SegoeTsumegoDictionary), zu finden [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2024-02)
+
+* (2024-05-05) In Ergänzung zu dem Beitrag DGoZ 02/2024 habe ich eine Übersicht zu den 30 Kategorien erstellt, die man in seinem Buch [zu Tsume-Go zusammengestellt](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo). In diesem findet sich auch noch eine kleine Übersicht, wo man auf den IZIS Go-Board dieses findet und was sonst noch dort verborgen ist – einfach den Link nutzen.
 
 ### Kleinere Beiträge
-
 
 * In diesem Artikel geht es um die Bewertung von möglichen Zügen in der Anfangsphase eines Spiels und ist ein Auszug aus einem Sonderheft von *Gekkan Go Gaku* – 別冊 月刊碁学 Monatliche Go-Schule – des [Kansai Kiin](https://senseis.xmp.net/?KansaiKiIn). Diesen Artikel findet man [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-Gefuehl)
 
