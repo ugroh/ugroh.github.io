@@ -13,7 +13,7 @@ Here you will find supplements to the YouTube videos by Tobias Berben and the [E
 
 * Supplement: [Chinese Version of the Exercises](https://ugroh.github.io/IZIS/en-06-Ecercise-cn.pdf), also in the above-mentioned manuals.
 
-* Added (2024-05-05): Some information about Segoe [Kensaku "TsumeGo Jiten", see](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo) and some information about the *Exercise Course Mode* section there, which contains some interesting exercises (presently in German).
+* Added (2024-05-05): Some information about Segoe [Kensaku "TsumeGo Jiten"](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo) and some information about the *Exercise Course Mode* section there, which contains some interesting exercises (presently in German).
 	                                                          
 
 ### Beiträge zu DGoZ 
