@@ -42,6 +42,8 @@ Alle unten aufgeführten Beiträge findet man unter [ugroh.github.io](https://gi
 
 * (2024-05-05) In Ergänzung zu dem Beitrag DGoZ 02/2024 habe ich eine Übersicht zu den 30 Kategorien erstellt, die man in seinem Buch [zu Tsume-Go findet](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo). In diesem findet sich auch noch eine kleine Übersicht, wo man auf den IZIS Go-Board dieses findet und was sonst noch dort verborgen ist – einfach den Link nutzen.
 
+   *(2024-06-23) Ergänzung:* Ich habe begonnen, aus jeder Kategorie die jeweils ersten zehn Probleme als Beispiele aufzunehmen. 
+
 ### Kleinere Beiträge
 
 * In diesem Artikel geht es um die Bewertung von möglichen Zügen in der Anfangsphase eines Spiels und ist ein Auszug aus einem Sonderheft von *Gekkan Go Gaku* – 別冊 月刊碁学 Monatliche Go-Schule – des [Kansai Kiin](https://senseis.xmp.net/?KansaiKiIn). Diesen Artikel findet man [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-Gefuehl)
