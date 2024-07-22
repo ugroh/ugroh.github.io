@@ -1,4 +1,4 @@
-## Inhalt von `ugroh.github.io` (Stand 2024-05-05)
+## Inhalt von `ugroh.github.io` (Stand 2024-07-22)
 
 [Kontakt](mailto:ugroh@mac.com) 
 
@@ -40,9 +40,7 @@ Alle unten aufgeführten Beiträge findet man unter [ugroh.github.io](https://gi
 
 * Beitrag DGoZ 02/2024: Etwas über sein [\"Lexikon des Tsume-Go\"](https://senseis.xmp.net/?SegoeTsumegoDictionary), zu finden [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2024-02)
 
-* (2024-05-05) In Ergänzung zu dem Beitrag DGoZ 02/2024 habe ich eine Übersicht zu den 30 Kategorien erstellt, die man in seinem Buch [zu Tsume-Go findet](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo). In diesem findet sich auch noch eine kleine Übersicht, wo man auf den IZIS Go-Board dieses findet und was sonst noch dort verborgen ist – einfach den Link nutzen.
-
-   *(2024-06-23) Ergänzung:* Ich habe begonnen, aus jeder Kategorie die jeweils ersten zehn Probleme als Beispiele aufzunehmen. 
+* In Ergänzung zu dem Beitrag DGoZ 02/2024 habe ich eine Übersicht zu den 30 Kategorien erstellt, die man in seinem Buch zu Tsume-Go findet. In dieser ist auch erklärt, wo man auf den IZIS Go-Board das »Buch« findet. Dies alles findet sich [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo). In diesem Unterverzeichis ist auch noch im SmartGo- bzw. EPUB-Format eine Zusammenstellung der jeweils ersten zehn Probleme seiner Kategorien enthalten – momentan noch nicht vollständig.  
 
 ### Kleinere Beiträge
 
