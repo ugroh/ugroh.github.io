@@ -32,7 +32,7 @@ Die unten aufgeführten Beiträge sind im SmartGo- bzw. EPUB-Format verfügbar. 
 
 Alle unten aufgeführten Beiträge findet man unter [ugroh.github.io](https://github.com/ugroh/ugroh.github.io) oder mittels der angegebenen Links.
 
-* Beitrag DGoZ 2/2023: Über [\"Go Proverbs Illustrated\"](https://senseis.xmp.net/?GoProverbsIllustrated) und über das [\"Tesuji-Lexikon\"](https://senseis.xmp.net/?SegoeTesujiDictionary), zu finden [in dem Unterverzeichnis Beitrag-2023-02.](https://ugroh.github.io/main/Beitrag-2023-02)
+* Beitrag DGoZ 2/2023: Über [\"Go Proverbs Illustrated\"](https://senseis.xmp.net/?GoProverbsIllustrated) und über das [\"Tesuji-Lexikon\"](https://senseis.xmp.net/?SegoeTesujiDictionary), zu finden [in dem Unterverzeichnis Beitrag-2023-02.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-02)
 
 * Beitrag DGoZ 3/2023: Über das Buch [\"Stärker werden\"](https://senseis.xmp.net/?TheBookToIncreaseYourFightingStrengthAtGo), zu finden [in dem Unterverzeichnis Beitrag-2023-03.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-03)
 
