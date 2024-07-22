@@ -40,7 +40,7 @@ Alle unten aufgeführten Beiträge findet man unter [ugroh.github.io](https://gi
 
 * Beitrag DGoZ 02/2024: Etwas über sein [\"Lexikon des Tsume-Go\"](https://senseis.xmp.net/?SegoeTsumegoDictionary), zu finden [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2024-02)
 
-* In Ergänzung zu dem Beitrag DGoZ 02/2024 habe ich eine Übersicht zu den 30 Kategorien erstellt, die man in seinem Buch zu Tsume-Go findet. In dieser ist auch erklärt, wo auf den IZIS Go-Board das »Buch« versteckt ist. Dies alles findet sich [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo) in den Formaten SmartGo-, EPUB- bzw. PDF.  
+* In Ergänzung zu dem Beitrag DGoZ 02/2024 habe ich eine Übersicht zu den 30 Kategorien erstellt, die man in seinem Buch zu Tsume-Go findet. In dieser ist auch erklärt, wo auf den IZIS Go-Board das »Buch« versteckt ist. Dies alles findet sich [unter diesem Link in den Formaten SmartGo-, EPUB- bzw. PDF.](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo)   
 
 ### Kleinere Beiträge
 
