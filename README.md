@@ -41,7 +41,7 @@ Dies alles findet sich in dem Unterverzeichnis [Segoe-TsumeGo](https://github.co
 
 * *Beitrag »Gefühl«* In diesem Artikel geht es um die Bewertung von möglichen Zügen in der Anfangsphase eines Spiels und ist ein Auszug aus einem Sonderheft von *Gekkan Go Gaku* – 別冊 月刊碁学 Monatliche Go-Schule – des [Kansai Kiin](https://senseis.xmp.net/?KansaiKiIn). Diesen Artikel findet man [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-Gefuehl)
 
-* [100-AI-Joseki](https://github.com/ugroh/ugroh.github.io/tree/main/100-AI-Joseki) gibt eine Übersicht über die 100 Joseki in [dem Buch gleichen Titels](https://www.go-spiele.de/de/100-ai-joseki.html), die in diesem kein Index oder eine sonstige Übersicht enthalten ist.
+* [100-AI-Joseki](https://github.com/ugroh/ugroh.github.io/tree/main/100-AI-Joseki) gibt eine Übersicht über die 100 Joseki in [dem Buch gleichen Titels](https://www.go-spiele.de/de/100-ai-joseki.html), da in diesem kein Index oder eine sonstige Übersicht enthalten ist.
 
 #### IZIS AI Board 
 
