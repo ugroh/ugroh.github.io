@@ -1,4 +1,4 @@
-### Inhalt von `ugroh.github.io` (Stand 2024-07-22)
+### Inhalt von `ugroh.github.io` (Stand 2024-09-09)
 
 [Kontakt](mailto:ugroh@mac.com) 
                                                        
@@ -36,6 +36,10 @@ In Ergänzung zu dem Beitrag DGoZ 02/2024 habe ich begonnen, das o.g. Lexikon de
 
 Dies alles findet sich in dem Unterverzeichnis [Segoe-TsumeGo](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo).
 
+* Status:
+	* SmartGo-Format: Stand 2024/09/09
+	* PDF: Stand 2024/09/07
+	* EPUB-Version: 2024/15/07
 
 #### Weitere Beiträge  
 
