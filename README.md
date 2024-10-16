@@ -1,4 +1,4 @@
-### Inhalt von `ugroh.github.io` (Stand 2024-09-09)
+### Inhalt von `ugroh.github.io` (Stand 2024-10-16)
 
 [Kontakt](mailto:ugroh@mac.com) 
                                                        
@@ -30,16 +30,15 @@ Alle unten aufgeführten Beiträge findet man mithilfe der blau unterlegten Link
 
 In Ergänzung zu dem Beitrag DGoZ 02/2024 habe ich begonnen, das o.g. Lexikon detaillierter darzustellen. In dieser Ergänzung ist auch erklärt, wo auf dem IZIS Go-Board das »Buch« versteckt ist. 
 
-* In  *Segoe-Kategorie.pdf* werden alle 30 Kategorien besprochen, wie man diese in dem Buch von Segoe findet. Für alle diese Kategorien finden sich die ersten zehn Probleme als Aufgabe und Lösung in *Segoe-Probleme.pdf*. 
+* In  *Segoe-Kategorie.pdf* werden die 30 Kategorien besprochen, wie man diese in dem Buch von Segoe findet. Für alle diese Kategorien finden sich die ersten zehn Probleme als Aufgabe und Lösung in *Segoe-TsumeGo.pdf*. 
 
-* Für alle, die dies alles gern interaktiv »lesen und lösen« wollen: *Segoe-TsumeGo.gobk* nutzt das [SmartGo-Programm](https://smartgo.com) und für *Segoe-TsumeGo.epub* benötigt man einen entsprechenden Reader. In diesen beiden Formaten sind die Inhalte der beiden o.g. PDF-Dateien enthalten.  
-
+* Für alle, die dies alles gern interaktiv »lesen und lösen« wollen: *Segoe-TsumeGo.gobk* nutzt das [SmartGo-Programm](https://smartgo.com) und enthält die Übersicht über die Kategorien und jeweisl 10 Probleme. Was fehlt, ist noch eine EPUB-Version davon – dieses kommt noch.  
 Dies alles findet sich in dem Unterverzeichnis [Segoe-TsumeGo](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo).
 
 * Status:
-	* SmartGo-Format: Stand 2024/09/09
-	* PDF: Stand 2024/09/07
-	* EPUB-Version: 2024/15/07
+	* SmartGo-Format: Stand 2024/10/16
+	* PDF: Stand 2024/10/16
+	* EPUB-Version: offen
 
 #### Weitere Beiträge  
 
