@@ -1,4 +1,4 @@
-### Inhalt von `ugroh.github.io` (Stand 2024-10-16)
+### Inhalt von `ugroh.github.io` (Stand 2024-11-16)
 
 [Kontakt](mailto:ugroh@mac.com) 
                                                        
@@ -32,13 +32,12 @@ In Ergänzung zu dem Beitrag DGoZ 02/2024 habe ich begonnen, das o.g. Lexikon de
 
 * In  *Segoe-Kategorie.pdf* werden die 30 Kategorien besprochen, wie man diese in dem Buch von Segoe findet. Für alle diese Kategorien finden sich die ersten zehn Probleme als Aufgabe und Lösung in *Segoe-TsumeGo.pdf*. 
 
-* Für alle, die dies alles gern interaktiv »lesen und lösen« wollen: *Segoe-TsumeGo.gobk* nutzt das [SmartGo-Programm](https://smartgo.com) und enthält die Übersicht über die Kategorien und jeweisl 10 Probleme. Was fehlt, ist noch eine EPUB-Version davon – dieses kommt noch.  
-Dies alles findet sich in dem Unterverzeichnis [Segoe-TsumeGo](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo).
+* Für alle, die dies alles gern interaktiv »lesen und lösen« wollen: *Segoe-TsumeGo.gobk* nutzt das [SmartGo-Programm](https://smartgo.com) und enthält die Übersicht über die Kategorien und jeweisl 10 Probleme. Auch gibt es jetzt eine EPUB-Version, die mithilfe eines geeigneten Readres auch interaktiv genutzt werden kann – etwa mit dem, der beim Apple Bücher-App. Dies alles findet sich in dem Unterverzeichnis [Segoe-TsumeGo](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo).
 
 * Status:
-	* SmartGo-Format: Stand 2024/10/16
-	* PDF: Stand 2024/10/16
-	* EPUB-Version: offen
+	* SmartGo-Format: Stand Stand 2024/11/16
+	* PDF: Stand Stand 2024/11/16
+	* EPUB-Version: Stand 2024/11/16
 
 #### Weitere Beiträge  
 
@@ -57,7 +56,7 @@ Here you will find supplements to the YouTube videos by Tobias Berben and the [E
 
 * Supplement: [Chinese Version of the Exercises](https://ugroh.github.io/IZIS/en-06-Ecercise-cn.pdf), also in the above-mentioned manuals.
 
-* Added (2024-05-05): Some information about Segoe [Kensaku "TsumeGo Jiten"](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo) and some information about the *Exercise Course Mode* section there, which contains some interesting exercises (presently in German).
+* Added (2024/05/05): Some information about Segoe [Kensaku "TsumeGo Jiten"](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo) and some information about the *Exercise Course Mode* section there, which contains some interesting exercises (presently in German).
 
 
 
