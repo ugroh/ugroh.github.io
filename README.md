@@ -10,7 +10,7 @@ Zum Lesen der Gobook benötigt man die SmartGo-App – siehe hierzu <https://gob
 
 Bei Problemen: Da langt [eine Mail an mich](mailto:ugroh@mac.com) und ich helfe.
 
-Die unten aufgeführten Beiträge sind im SmartGo- bzw. EPUB-Format verfügbar. Einen Reader für das SmartGo-Format findet man etwa im App-Store (siehe auch [SmartGo)](https://smartgo.com) und einen Reader für das EPUB-Format [etwa mit Hilfe dieses Artikels.](https://www.chip.de/news/E-Book-Tools-fuer-Windows-10-Das-sind-die-Top-3_182511780.html) Man muss sich die gewünschte Datei herunterladen: Dazu diese mit der linken Maustaste auswählen und im \`raw-Format\` herunterladen (Symbol ganz rechts mit dem Pfeil nach unten).
+Die unten aufgeführten Beiträge sind im SmartGo- bzw. EPUB-Format verfügbar. Einen Reader für das SmartGo-Format findet man etwa im App-Store (siehe auch [SmartGo)](https://smartgo.com) und einen Reader für das EPUB-Format [etwa mithilfe dieses Artikels.](https://www.chip.de/news/E-Book-Tools-fuer-Windows-10-Das-sind-die-Top-3_182511780.html) Man muss sich die gewünschte Datei herunterladen: Dazu diese mit der linken Maustaste auswählen und im \`raw-Format\` herunterladen (Symbol ganz rechts mit dem Pfeil nach unten).
 
 #### Über fünf Bücher von Segoe Kensaku 瀬越憲作
 
@@ -32,11 +32,11 @@ In Ergänzung zu dem Beitrag DGoZ 02/2024 habe ich begonnen, das o.g. Lexikon de
 
 * In  *Segoe-Kategorie.pdf* werden die 30 Kategorien besprochen, wie man diese in dem Buch von Segoe findet. Für alle diese Kategorien finden sich die ersten zehn Probleme als Aufgabe und Lösung in *Segoe-TsumeGo.pdf*. 
 
-* Für alle, die dies alles gern interaktiv »lesen und lösen« wollen: *Segoe-TsumeGo.gobk* nutzt das [SmartGo-Programm](https://smartgo.com) und enthält die Übersicht über die Kategorien und jeweisl 10 Probleme. Auch gibt es jetzt eine EPUB-Version, die mithilfe eines geeigneten Readres auch interaktiv genutzt werden kann – etwa mit dem, der beim Apple Bücher-App. Dies alles findet sich in dem Unterverzeichnis [Segoe-TsumeGo](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo).
+* Für alle, die dies alles gern interaktiv »lesen und lösen« wollen: *Segoe-TsumeGo.gobk* nutzt das [SmartGo-Programm](https://smartgo.com) und enthält die Übersicht über die Kategorien und jeweils 10 Probleme. Auch gibt es jetzt eine EPUB-Version, die mithilfe eines geeigneten Readers auch interaktiv genutzt werden kann – etwa mit der Apple Bücher-App. Dies alles findet sich in dem Unterverzeichnis [Segoe-TsumeGo](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo).
 
 * Status:
-	* SmartGo-Format: Stand Stand 2024/11/16
-	* PDF: Stand Stand 2024/11/16
+	* SmartGo-Format: Stand 2024/11/16
+	* PDF: Stand 2024/11/16
 	* EPUB-Version: Stand 2024/11/16
 
 #### Weitere Beiträge  
