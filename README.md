@@ -1,4 +1,4 @@
-### Inhalt von `ugroh.github.io` (Stand 2024-11-16)
+### Inhalt von `ugroh.github.io` (Stand 2025-07-18)
 
 [Kontakt](mailto:ugroh@mac.com) 
                                                        
@@ -8,9 +8,9 @@ Hier finden sich die interaktiven Dateien zu meinen Beiträgen in der [Deutschen
 
 Zum Lesen der Gobook benötigt man die SmartGo-App – siehe hierzu <https://gobooks.com/devices.html>. Um das EPUB-Buch lesen zu können, benötigt man einen Editor. Hinweise auf diese findet man unter <https://gobooks.com/epub.html>
 
-Bei Problemen: Da langt [eine Mail an mich](mailto:ugroh@mac.com) und ich helfe.
+Bei Problemen genügt [eine Mail an mich](mailto:ugroh@mac.com) und ich helfe.
 
-Die unten aufgeführten Beiträge sind im SmartGo- bzw. EPUB-Format verfügbar. Einen Reader für das SmartGo-Format findet man etwa im App-Store (siehe auch [SmartGo)](https://smartgo.com) und einen Reader für das EPUB-Format [etwa mithilfe dieses Artikels.](https://www.chip.de/news/E-Book-Tools-fuer-Windows-10-Das-sind-die-Top-3_182511780.html) Man muss sich die gewünschte Datei herunterladen: Dazu diese mit der linken Maustaste auswählen und im \`raw-Format\` herunterladen (Symbol ganz rechts mit dem Pfeil nach unten).
+Die unten aufgeführten Beiträge sind im SmartGo- bzw. EPUB-Format verfügbar. Einen Reader für das SmartGo-Format findet man etwa im App-Store (siehe auch [SmartGo)](https://smartgo.com) und einen Reader für das EPUB-Format [etwa mithilfe dieses Artikels.](https://www.chip.de/news/E-Book-Tools-fuer-Windows-10-Das-sind-die-Top-3_182511780.html) Man muss sich die gewünschte Datei herunterladen: Dazu wählt man sie mit der linken Maustaste aus und lädt sie dann im Raw-Format herunter (Symbol ganz rechts mit dem Pfeil nach unten).
 
 #### Über fünf Bücher von Segoe Kensaku 瀬越憲作
 
@@ -22,9 +22,9 @@ Alle unten aufgeführten Beiträge findet man mithilfe der blau unterlegten Link
 
 * Beitrag DGoZ 3/2023: Über das Buch [\"Stärker werden\"](https://senseis.xmp.net/?TheBookToIncreaseYourFightingStrengthAtGo), zu finden [in dem Unterverzeichnis Beitrag-2023-03.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-03)
 
-* Beitrag DGoZ 05/2023, 06/2023 und 01/2024: Etwas zum [\"Lexikon der Strategie\"](https://www.amazon.co.jp/作戦辞典-瀬越-憲作/dp/4416686013) von Segoe, zu finden [in dem Unterverzeichnis Beitrag-2023-05.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-05)
+* Beitrag DGoZ 5/2023, 06/2023 und 01/2024: Etwas zum [\"Lexikon der Strategie\"](https://www.amazon.co.jp/作戦辞典-瀬越-憲作/dp/4416686013) von Segoe, zu finden [in dem Unterverzeichnis Beitrag-2023-05.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-05)
 
-* Beitrag DGoZ 02/2024: Etwas über sein [\"Lexikon des Tsume-Go\"](https://senseis.xmp.net/?SegoeTsumegoDictionary), zu finden [in dem Unterverzeichnis Beitrag-2024-02.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2024-02)
+* Beitrag DGoZ 2/2024: Etwas über sein [\"Lexikon des Tsume-Go\"](https://senseis.xmp.net/?SegoeTsumegoDictionary), zu finden [in dem Unterverzeichnis Beitrag-2024-02.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2024-02)
 
 #### Segoe Kensaku »Lexikon des Tsume-Go 詰碁辞典«
 
@@ -45,6 +45,8 @@ In Ergänzung zu dem Beitrag DGoZ 02/2024 habe ich begonnen, das o.g. Lexikon de
 
 * [100-AI-Joseki](https://github.com/ugroh/ugroh.github.io/tree/main/100-AI-Joseki) gibt eine Übersicht über die 100 Joseki in [dem Buch gleichen Titels](https://www.go-spiele.de/de/100-ai-joseki.html), da in diesem kein Index oder eine sonstige Übersicht enthalten ist.
 
+* *Leserbrief zu »The Master«* Die in dem Leserbrief erwähnte SGF-Datei findet sich unter [The-Master-Film](https://github.com/ugroh/ugroh.github.io/tree/main/The-Master-Film)
+
 #### IZIS AI Board 
 
 Here you will find supplements to the YouTube videos by Tobias Berben and the [English manual](http://121.41.64.145:8089/book/English%20Manual%20%20V2.pdf) for the [IZIS AI Board](https://eurogojournal.com/blog/ai-go-board/). These were created during the familiarization process with this Go board, and I hope they assist others in their initial steps. Anything highlighted in blue is a link – just click on it.
@@ -54,7 +56,7 @@ Here you will find supplements to the YouTube videos by Tobias Berben and the [E
 
 * German Version: [de-IZIS-Manual.pdf](https://ugroh.github.io/IZIS/de-IZIS-Manual.pdf) 
 
-* Supplement: [Chinese Version of the Exercises](https://ugroh.github.io/IZIS/en-06-Ecercise-cn.pdf), also in the above-mentioned manuals.
+* Supplement: [Chinese Version of the Exercises](https://ugroh.github.io/IZIS/en-06-Exercise-cn.pdf), also in the above-mentioned manuals.
 
 * Added (2024/05/05): Some information about Segoe [Kensaku "TsumeGo Jiten"](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo) and some information about the *Exercise Course Mode* section there, which contains some interesting exercises (presently in German).
 
