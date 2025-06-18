@@ -45,7 +45,7 @@ In Ergänzung zu dem Beitrag DGoZ 02/2024 habe ich begonnen, das o.g. Lexikon de
 
 * [100-AI-Joseki](https://github.com/ugroh/ugroh.github.io/tree/main/100-AI-Joseki) gibt eine Übersicht über die 100 Joseki in [dem Buch gleichen Titels](https://www.go-spiele.de/de/100-ai-joseki.html), da in diesem kein Index oder eine sonstige Übersicht enthalten ist.
 
-* *Leserbrief zu »The Match«* Die in dem Leserbrief erwähnte SGF-Datei findet sich unter [The-Master-Film](https://github.com/ugroh/ugroh.github.io/tree/main/The-Match-Film)
+* *Leserbrief zu »The Match«* Die in dem Leserbrief erwähnte SGF-Datei findet sich unter [The-Match-Film](https://github.com/ugroh/ugroh.github.io/tree/main/The-Match-Film)
 
 #### IZIS AI Board 
 
