@@ -32,7 +32,7 @@ In Ergänzung zu dem Beitrag DGoZ 02/2024 habe ich begonnen, das oben genannte L
 
 * Für alle, die dies alles gern interaktiv »lesen und lösen« wollen: *Segoe-TsumeGo.gobk* nutzt das [SmartGo-Programm](https://smartgo.com) und enthält die Übersicht über die Kategorien und jeweils 10 Probleme. Auch gibt es jetzt eine EPUB-Version, die mithilfe eines geeigneten Readers auch interaktiv genutzt werden kann – etwa mit der Apple Bücher-App. All dies findet sich in dem Unterverzeichnis [Segoe-TsumeGo](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo).
 
-In den genannten Verzeichnisse finden sich auch die Beiträge aus der DGoZ im PDF-Format.
+In den genannten Verzeichnissen finden sich auch die Beiträge aus der DGoZ im PDF-Format.
 
 * Status:
 	* SmartGo-Format: Stand 2024/11/16
