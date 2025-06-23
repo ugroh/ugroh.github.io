@@ -12,7 +12,7 @@ Die unten aufgeführten Beiträge sind im SmartGo- bzw. EPUB-Format verfügbar. 
 
 #### Über fünf Bücher von Segoe Kensaku 瀬越憲作
 
-[Segoe Kensaku (1889–1972)](https://senseis.xmp.net/?Segoe) war ein Go-Spieler der japanischen <a href="https://de.wikipedia.org/wiki/Taish%C5%8D-Zeit"> Taishō-</a> und <a href="https://de.wikipedia.org/wiki/Sh%C5%8Dwa-Zeit"> Shōwa-Zeitrechnung</a>. Von 1947 bis 1948 war er Vorsitzender des Nihon Ki-in und trug wesentlich zur Popularisierung von Go in Japan bei. Aufgrund seiner sich verschlechternden Gesundheit und weil er vermeiden wollte, jemandem zur Last zu fallen, beging er im Jahr 1972 Selbstmord.
+[Segoe Kensaku (1889–1972)](https://senseis.xmp.net/?Segoe) war ein Go-Spieler der japanischen [Taishō-](https://de.wikipedia.org/wiki/Taish%C5%8D-Zeit) und [Shōwa-](https://de.wikipedia.org/wiki/Sh%C5%8Dwa-Zeit) Zeitrechnung. Von 1947 bis 1948 war er Vorsitzender des Nihon Ki-in und trug wesentlich zur Popularisierung von Go in Japan bei. Aufgrund seiner sich verschlechternden Gesundheit und weil er vermeiden wollte, jemandem zur Last zu fallen, beging er im Jahr 1972 Selbstmord.
 
 Alle unten aufgeführten Beiträge findet man mithilfe der blau unterlegten Links. Die Dateien kann man sich dann herunterladen (siehe oben). 
 
