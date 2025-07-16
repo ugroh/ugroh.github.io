@@ -1,4 +1,4 @@
-### Inhalt von `ugroh.github.io` (Stand 2025-06-18)
+### Inhalt von `ugroh.github.io` (Stand 2025-07-16)
 
 [Kontakt](mailto:ugroh@mac.com) 
                                                        
