@@ -47,6 +47,8 @@ In den genannten Verzeichnissen finden sich auch die Beiträge aus der DGoZ im P
 
 * *Leserbrief zu »The Match«* Die in dem Leserbrief erwähnte SGF-Datei findet sich unter [The-Match-Film](https://github.com/ugroh/ugroh.github.io/tree/main/The-Match-Film)
 
+* Alle Spiele, die in dem Buch von [Shin Jinseo](https://senseis.xmp.net/?ShinJinseo) »*My Go Journey*« besprochen werden, finden sich in dem Unterverzeichnis [ShinJinseo-Buch](https://github.com/ugroh/ugroh.github.io/tree/main/ShinJinseo-Buch)
+
 #### IZIS AI Board 
 
 The following section is in English as it supplements English-language materials. 
