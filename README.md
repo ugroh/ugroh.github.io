@@ -1,4 +1,4 @@
-### Inhalt von `ugroh.github.io` (Stand 2025-07-16)
+### Inhalt von `ugroh.github.io` (Stand 2025-10-27)
 
 [Kontakt](mailto:ugroh@mac.com) 
                                                        
@@ -32,16 +32,18 @@ In Ergänzung zu dem Beitrag DGoZ 02/2024 habe ich begonnen, das oben genannte L
 
 * Für alle, die dies alles gern interaktiv »lesen und lösen« wollen: *Segoe-TsumeGo.gobk* nutzt das [SmartGo-Programm](https://smartgo.com) und enthält die Übersicht über die Kategorien und jeweils 10 Probleme. Auch gibt es jetzt eine EPUB-Version, die mithilfe eines geeigneten Readers auch interaktiv genutzt werden kann – etwa mit der Apple Bücher-App. All dies findet sich in dem Unterverzeichnis [Segoe-TsumeGo](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo).
 
-In den genannten Verzeichnissen finden sich auch die Beiträge aus der DGoZ im PDF-Format.
+In den genannten Verzeichnissen finden sich auch die Beiträge aus der DGoZ im PDF-Format, sofern diese bereits allgemein verfügbar sind.
 
 * Status:
-	* SmartGo-Format: Stand 2024/11/16
-	* PDF: Stand 2024/11/16
-	* EPUB-Version: Stand 2024/11/16
+	* SmartGo-Format: Stand 2025/10/01
+	* PDF: Stand 2025/10/01
+	* EPUB-Version: Stand 2025/10/01
 
 #### Weitere Beiträge  
 
 * *Beitrag »Gefühl«* In diesem Artikel geht es um die Bewertung von möglichen Zügen in der Anfangsphase eines Spiels und ist ein Auszug aus einem Sonderheft von *Gekkan Go Gaku* – 別冊 月刊碁学 Monatliche Go-Schule – des [Kansai Kiin](https://senseis.xmp.net/?KansaiKiIn). Diesen Artikel findet man [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-Gefuehl)
+
+* *Beitrag »Yose«* In diesem Artikel geht es um das Auffinden der optimalen Spielweise im Endspiel. Dies ist ein Beitrag in *Gekkan Go Gaku* – 別冊 月刊碁学 Monatliche Go-Schule – des [Kansai Kiin](https://senseis.xmp.net/?KansaiKiIn), der dort regelmäßig erschienen ist. Diesen Artikel findet man [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-Yose/Yose)
 
 * [100-AI-Joseki](https://github.com/ugroh/ugroh.github.io/tree/main/100-AI-Joseki) gibt eine Übersicht über die 100 Joseki in [dem Buch gleichen Titels](https://www.go-spiele.de/de/100-ai-joseki.html), da in diesem kein Index oder eine sonstige Übersicht enthalten ist.
 
