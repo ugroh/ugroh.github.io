@@ -53,6 +53,8 @@ In den genannten Verzeichnissen finden sich auch die Beiträge aus der DGoZ im P
 
 * Alle Spiele, die in dem Buch von [Shin Jinseo](https://senseis.xmp.net/?ShinJinseo) »*My Go Journey*« besprochen werden, finden sich in dem Unterverzeichnis [ShinJinseo-Buch](https://github.com/ugroh/ugroh.github.io/tree/main/ShinJinseo-Buch)
 
+* *AlphaGo2Zero* Dort findet sich ein Index zu dem tollen Buch von M. Redmond und Chris Garlock; siehe [SmartGo Books](https://gobooks.com).
+
 #### IZIS AI Board 
 
 The following section is in English as it supplements English-language materials. 
