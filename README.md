@@ -1,4 +1,4 @@
-### Inhalt von `ugroh.github.io` (Stand 2025-10-27)
+### Inhalt von `ugroh.github.io` (Stand 2026-08-06)
 
 [Kontakt](mailto:ugroh@mac.com) 
 
@@ -42,6 +42,8 @@ In den genannten Verzeichnissen finden sich auch die Beiträge aus der DGoZ im P
 	* EPUB-Version: Stand 2025/10/01
 
 #### Weitere Beiträge  
+
+* Die `SGF`-Dateien der Spiele aus *Ueno Asami »Play Like the Hammer Princess«* finden sich in dem Verzeichnis [UenoAsami](https://github.com/ugroh/ugroh.github.io/tree/main/UenoAsami).
 
 * *Beitrag »Gefühl«* In diesem Artikel geht es um die Bewertung von möglichen Zügen in der Anfangsphase eines Spiels und ist ein Auszug aus einem Sonderheft von *Gekkan Go Gaku* – 別冊 月刊碁学 Monatliche Go-Schule – des [Kansai Kiin](https://senseis.xmp.net/?KansaiKiIn). Diesen Artikel findet man [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-Gefuehl)
 
@@ -110,6 +112,8 @@ The mentioned directories also contain the contributions from DGoZ in PDF format
   - EPUB version: As of 2025/10/01
 
 #### Additional Contributions
+
+- The SGF files of the games from *Ueno Asami's »Play Like the Hammer Princess«* can be found in the directory  [UenoAsami](https://github.com/ugroh/ugroh.github.io/tree/main/UenoAsami)..
 
 - *Contribution »Feeling«* This article deals with the evaluation of possible moves in the opening phase of a game and is an excerpt from a special issue of *Gekkan Go Gaku* – 別冊 月刊碁学 Monthly Go School – of the [Kansai Kiin](https://senseis.xmp.net/?KansaiKiIn). This article can be found [under this link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-Gefuehl)
 - *Contribution »Yose«* This article deals with finding the optimal way to play in the endgame. This is a contribution in *Gekkan Go Gaku* – 別冊 月刊碁学 Monthly Go School – of the Kansai Kiin, which appeared there regularly. This article can be found under this link.
