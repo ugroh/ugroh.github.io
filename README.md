@@ -27,15 +27,15 @@ Alle unten aufgeführten Beiträge findet man mithilfe der blau unterlegten Link
 	* Teil 2 <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2023-6-2.pdf" target="_blank" rel="noopener">DGoZ 06/2023</a>
 	* Teil 3 <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2024-1-3.pdf" target="_blank" rel="noopener">01/2024</a>
 
-* Beitrag DGoZ 3/2024: Etwas über sein [»Lexikon des Tsume-Go«](https://senseis.xmp.net/?SegoeTsumegoDictionary), verfügbar in dem Unterverzeichnis [Beitrag-2024-03](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2024-03) - <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-1.pdf" target="_blank" rel="noopener">Teil 1 </a> und <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-2.pdf" target="_blank" rel="noopener">Teil 2. </a>
+* Beitrag DGoZ 3/2024: Etwas über sein [»Lexikon des Tsume-Go«](https://senseis.xmp.net/?SegoeTsumegoDictionary), verfügbar in dem Unterverzeichnis [Beitrag-2024-03](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2024-03) - <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-1.pdf" target="_blank" rel="noopener">Teil 1 </a> und <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-2.pdf" target="_blank" rel="noopener">Teil 2 </a> als direkter Zugang.
 
 #### Segoe Kensaku »Lexikon des Tsume-Go 詰碁辞典«
 
 In Ergänzung zu dem Beitrag DGoZ 03/2024 habe ich begonnen, das oben genannte Lexikon detaillierter darzustellen. In dieser Ergänzung ist auch erklärt, wo auf dem IZIS Go-Board das »Buch« versteckt ist. 
 
-* In *Segoe-Kategorie.pdf* werden die 30 Kategorien besprochen, wie man diese in dem Buch von Segoe findet oder als direkter Link <a href="https://ugroh.github.io/Segoe-TsumeGo/Segoe-Kategorie.pdf" target="_blank" rel="noopener">PDF öffnen</a>
+* In *Segoe-Kategorie.pdf* werden die 30 Kategorien besprochen, wie man diese in dem <a href="https://ugroh.github.io/Segoe-TsumeGo/Segoe-Kategorie.pdf" target="_blank" rel="noopener">Buch von Segoe findet.</a>
 
-* Für alle diese Kategorien finden sich die ersten zehn Probleme als Aufgabe und Lösung in *Segoe-TsumeGo.pdf* oder als direkter Link <a href="https://ugroh.github.io/Segoe-TsumeGo/Segoe-TsumeGo.pdf" target="_blank" rel="noopener">PDF öffnen</a>
+* Für alle diese Kategorien finden sich die ersten zehn Probleme als Aufgabe und Lösung in <a href="https://ugroh.github.io/Segoe-TsumeGo/Segoe-TsumeGo.pdf" target="_blank" rel="noopener">Segoe-TsumeGo.pdf</a>
 
 * Für alle, die dies alles gern interaktiv »lesen und lösen« wollen: *Segoe-TsumeGo.gobk* nutzt das [SmartGo-Programm](https://smartgo.com) und enthält die Übersicht über die Kategorien und jeweils 10 Probleme. Auch gibt es jetzt eine EPUB-Version, die mithilfe eines geeigneten Readers auch interaktiv genutzt werden kann – etwa mit der Apple Bücher-App. All dies findet sich in dem Unterverzeichnis [Segoe-TsumeGo](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo).
 
