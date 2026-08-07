@@ -52,15 +52,15 @@ In den genannten Verzeichnissen finden sich auch die Beiträge aus der DGoZ im P
 
 * *Beitrag »Gefühl«* In diesem Artikel geht es um die Bewertung von möglichen Zügen in der Anfangsphase eines Spiels und ist ein Auszug aus einem Sonderheft von *Gekkan Go Gaku* – 別冊 月刊碁学 Monatliche Go-Schule – des [Kansai Kiin](https://senseis.xmp.net/?KansaiKiIn). Diesen Artikel findet man [unter diesem Link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-Gefuehl)
 
-* *Beitrag »Yose«* In diesem Artikel geht es um das Auffinden der optimalen Spielweise im Endspiel. Dies ist ein Beitrag in *Gekkan Go Gaku* – 別冊 月刊碁学 Monatliche Go-Schule – des [Kansai Kiin](https://senseis.xmp.net/?KansaiKiIn), der dort regelmäßig erschienen ist oder als direkter Link <a href="https://ugroh.github.io/Beitrag-Yose/Yose/yose-problem-igo.pdf" target="_blank" rel="noopener">PDF öffnen</a>
+* *Beitrag »Yose«* In diesem Artikel geht es um das Auffinden der optimalen Spielweise im Endspiel. Dies ist ein Beitrag in *Gekkan Go Gaku* – 別冊 月刊碁学 Monatliche Go-Schule – des [Kansai Kiin](https://senseis.xmp.net/?KansaiKiIn), der dort regelmäßig erschienen ist <a href="https://ugroh.github.io/Beitrag-Yose/Yose/yose-problem-igo.pdf" target="_blank" rel="noopener">der hier zu finden ist</a>
 
-* [100-AI-Joseki](https://github.com/ugroh/ugroh.github.io/tree/main/100-AI-Joseki) gibt eine Übersicht über die 100 Joseki in [dem Buch gleichen Titels](https://www.go-spiele.de/de/100-ai-joseki.html), da in diesem kein Index oder eine sonstige Übersicht enthalten ist oder als direkter Link <a href="https://ugroh.github.io/100-AI-Joseki/100-AI-Joseki-Index.pdf" target="_blank" rel="noopener">PDF öffnen</a>
+* [100-AI-Joseki](https://github.com/ugroh/ugroh.github.io/tree/main/100-AI-Joseki) gibt eine Übersicht über die 100 Joseki in [dem Buch gleichen Titels](https://www.go-spiele.de/de/100-ai-joseki.html), da in diesem kein Index oder eine sonstige Übersicht enthalten ist; <a href="https://ugroh.github.io/100-AI-Joseki/100-AI-Joseki-Index.pdf" target="_blank" rel="noopener">siehe auch hier.</a>
 
 * *Leserbrief zu »The Match«* Die in dem Leserbrief erwähnte SGF-Datei findet sich unter [The-Match-Film](https://github.com/ugroh/ugroh.github.io/tree/main/The-Match-Film)
 
 * Alle Spiele, die in dem Buch von [Shin Jinseo](https://senseis.xmp.net/?ShinJinseo) »*My Go Journey*« besprochen werden, finden sich in dem Unterverzeichnis [ShinJinseo-Buch](https://github.com/ugroh/ugroh.github.io/tree/main/ShinJinseo-Buch)
 
-* *AlphaGo2Zero* Dort findet sich ein Index zu dem tollen Buch von M. Redmond und Chris Garlock; siehe [SmartGo Books](https://gobooks.com) oder als direkter Link <a href="https://ugroh.github.io/AlphaGo2Zero/AlpahaGo.pdf" target="_blank" rel="noopener">PDF öffnen</a>
+* *AlphaGo2Zero* Dort findet sich ein Index zu dem tollen Buch von M. Redmond und Chris Garlock; siehe [SmartGo Books](https://gobooks.com). Der Index findet  <a href="https://ugroh.github.io/AlphaGo2Zero/AlpahaGo.pdf" target="_blank" rel="noopener">hinter diesenm Link.</a>
 
 #### IZIS AI Board 
 
@@ -68,11 +68,11 @@ The following section is in English as it supplements English-language materials
 
 Here you will find supplements to the YouTube videos by Tobias Berben and the [English manual](http://121.41.64.145:8089/book/English%20Manual%20%20V2.pdf) for the [IZIS AI Board](https://eurogojournal.com/blog/ai-go-board/). These were created during the familiarization process with this Go board, and I hope they assist others in their initial steps. Anything highlighted in blue is a link – just click on it.
 
-* English Version: <a href="https://ugroh.github.io/IZIS/en-IZIS-Manual.pdf" target="_blank" rel="noopener">Open PDF</a>
+* <a href="https://ugroh.github.io/IZIS/en-IZIS-Manual.pdf" target="_blank" rel="noopener">English Version</a>
 
-* German Version: <a href="https://ugroh.github.io/IZIS/de-IZIS-Manual.pdf" target="_blank" rel="noopener">Open PDF</a>
+* <a href="https://ugroh.github.io/IZIS/de-IZIS-Manual.pdf" target="_blank" rel="noopener">German Version</a>
 
-* Supplement: Chinese Version of the Exercises, also in the above-mentioned manuals, or as a direct link <a href="https://ugroh.github.io/IZIS/en-06-Ecercise-cn.pdf" target="_blank" rel="noopener">Open PDF</a>
+* Supplement: Chinese Version of the Exercises, also in the <a href="https://ugroh.github.io/IZIS/en-06-Ecercise-cn.pdf" target="_blank" rel="noopener">above-mentioned manuals</a>
 
 * Added (2024/05/05): Some information about Segoe [Kensaku "TsumeGo Jiten"](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo) and some information about the *Exercise Course Mode* section there, which contains some interesting exercises (presently in German).
 
