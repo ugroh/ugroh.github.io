@@ -24,6 +24,8 @@ Alle unten aufgeführten Beiträge findet man mithilfe der blau unterlegten Link
 
 * Beitrag DGoZ 5/2023, 06/2023 und 01/2024: Etwas zum [»Lexikon der Strategie«](https://www.amazon.co.jp/作戦辞典-瀬越-憲作/dp/4416686013), [verfügbar in dem Unterverzeichnis Beitrag-2023-05.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-05)
 
+* Beitrag DGoZ 5/2023, 06/2023 und 01/2024: Etwas zum [»Lexikon der Strategie«](https://www.amazon.co.jp/作戦辞典-瀬越-憲作/dp/4416686013), verfügbar in dem Unterverzeichnis [Beitrag-2023-05](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-05).
+
 * Beitrag DGoZ 2/2024: Etwas über sein [»Lexikon des Tsume-Go«](https://senseis.xmp.net/?SegoeTsumegoDictionary), [verfügbar in dem Unterverzeichnis Beitrag-2024-02.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2024-02)
 
 #### Segoe Kensaku »Lexikon des Tsume-Go 詰碁辞典«
@@ -79,6 +81,10 @@ Here you will find supplements to the YouTube videos by Tobias Berben and the [E
 [Contact](mailto:ugroh@mac.com)
 
 #### Contributions to DGoZ
+
+
+
+<embed src="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2023-5-1.pdf" type="application/pdf" width="100%" height="800px" />
 
 Here you can find the interactive files for my contributions to the [German Go Journal](https://www.dgob.de/info-und-service/deutsche-go-zeitung/). Just give them a try! Anything highlighted in blue is a link – just click on it.
 
