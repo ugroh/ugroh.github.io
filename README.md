@@ -6,7 +6,7 @@
 
 #### Beiträge zu DGoZ 
 
-Hier finden sich die interaktiven Dateien zu meinen Beiträgen in der [Deutschen Go-Zeitung](https://www.dgob.de/info-und-service/deutsche-go-zeitung/). Einfach mal ausprobieren! Alles, was blau unterlegt ist, verweist auf einen Link – einfach anklicken. Über die Links "PDF öffnen" lassen sich die jeweiligen PDFs direkt in einem neuen Tab öffnen.
+Hier finden sich die interaktiven Dateien zu meinen Beiträgen in der [Deutschen Go-Zeitung](https://www.dgob.de/info-und-service/deutsche-go-zeitung/) – einfach mal ausprobieren! Alles, was blau unterlegt ist, verweist auf einen Link – einfach anklicken. Über die Links "PDF öffnen" lassen sich die jeweiligen PDFs direkt in einem neuen Tab öffnen.
 
 Bei Problemen mit der Webseite u.a. genügt [eine Mail an mich](mailto:ugroh@mac.com) und ich helfe gerne.
 
@@ -18,12 +18,12 @@ Die unten aufgeführten Beiträge sind im SmartGo- bzw. EPUB-Format verfügbar. 
 
 Alle unten aufgeführten Beiträge findet man mithilfe der blau unterlegten Links. Die Dateien kann man sich dann herunterladen (siehe oben). 
 
-* Beitrag DGoZ 2/2023: Über [»Go Proverbs Illustrated«](https://senseis.xmp.net/?GoProverbsIllustrated) und über das [»Tesuji-Lexikon«](https://senseis.xmp.net/?SegoeTesujiDictionary), verfügbar in dem Unterverzeichnis [Beitrag-2023-02](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-02) oder als direkter Link <a href="https://ugroh.github.io/Beitrag-2023-02/Beitrag-DGoZ-2023-2.pdf" target="_blank" rel="noopener">PDF öffnen</a>
+* Beitrag DGoZ 2/2023: Über [»Go Proverbs Illustrated«](https://senseis.xmp.net/?GoProverbsIllustrated) und über das [»Tesuji-Lexikon«](https://senseis.xmp.net/?SegoeTesujiDictionary), verfügbar in dem Unterverzeichnis [Beitrag-2023-02](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-02) oder als direkter Link <a href="https://ugroh.github.io/Beitrag-2023-02/Beitrag-DGoZ-2023-2.pdf" target="_blank" rel="noopener">auf den Beitrag</a>
 
-* Beitrag DGoZ 3/2023: Über das Buch [»Stärker werden«](https://senseis.xmp.net/?TheBookToIncreaseYourFightingStrengthAtGo), verfügbar in dem Unterverzeichnis [Beitrag-2023-03](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-03) oder als direkter Link <a href="https://ugroh.github.io/Beitrag-2023-03/Beitrag-DGoZ-2023-3.pdf" target="_blank" rel="noopener">PDF öffnen</a>
+* Beitrag DGoZ 3/2023: Über das Buch [»Stärker werden«](https://senseis.xmp.net/?TheBookToIncreaseYourFightingStrengthAtGo), verfügbar in dem Unterverzeichnis [Beitrag-2023-03](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-03) oder als direkter Link <a href="https://ugroh.github.io/Beitrag-2023-03/Beitrag-DGoZ-2023-3.pdf" target="_blank" rel="noopener">auf den Beitrag</a>
 
 * Beitrag DGoZ 5/2023, 06/2023 und 01/2024: Etwas zum [»Lexikon der Strategie«](https://www.amazon.co.jp/作戦辞典-瀬越-憲作/dp/4416686013), verfügbar in dem Unterverzeichnis [Beitrag-2023-05](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-05):
-	* Teil 1 (DGoZ 5/2023) oder als direkter Link <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2023-5-1.pdf" target="_blank" rel="noopener">PDF öffnen</a>
+	* Teil 1 <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2023-5-1.pdf" target="_blank" rel="noopener">DGoZ 5/2023</a>
 	* Teil 2 (DGoZ 06/2023) oder als direkter Link <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2023-6-2.pdf" target="_blank" rel="noopener">PDF öffnen</a>
 	* Teil 3 (DGoZ 01/2024) oder als direkter Link <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2024-1-3.pdf" target="_blank" rel="noopener">PDF öffnen</a>
 
