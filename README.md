@@ -10,7 +10,7 @@ Hier finden sich die interaktiven Dateien zu meinen Beiträgen in der [Deutschen
 
 Bei Problemen mit der Webseite u.a. genügt [eine Mail an mich](mailto:ugroh@mac.com) und ich helfe gerne.
 
-Die unten aufgeführten Beiträge sind im SmartGo- bzw. EPUB-Format verfügbar. Einen Reader für das SmartGo-Format findet man etwa im App-Store (siehe auch [SmartGo)](https://smartgo.com) und einen Reader für das EPUB-Format [beispielsweise mit den in diesem Artikel vorgestellten Readern.](https://www.chip.de/news/E-Book-Tools-fuer-Windows-10-Das-sind-die-Top-3_182511780.html) Hat man sich einen geeigneten Reader besorgt, so muss man sich die gewünschte Datei herunterladen: Dazu wählt man sie mit der linken Maustaste aus und lädt sie dann im Raw-Format herunter (Symbol ganz rechts mit dem Pfeil nach unten).
+Die unten aufgeführten Beiträge sind im SmartGo- bzw. EPUB-Format verfügbar. Einen Reader für das SmartGo-Format ist in [SmartGo V3](https://smartgo.com) integriert und ein Reader für das EPUB-Format unter Windows ist etwa [Calibre E-Book.](https://calibre-ebook.com) Hat man sich einen geeigneten Reader besorgt, so muss man sich die gewünschte Datei herunterladen: Dazu wählt man sie mit der linken Maustaste aus und lädt sie dann im Raw-Format herunter (Symbol ganz rechts mit dem Pfeil nach unten).
 
 #### Über fünf Bücher von Segoe Kensaku 瀬越憲作
 
@@ -27,7 +27,7 @@ Alle unten aufgeführten Beiträge findet man mithilfe der blau unterlegten Link
 	* Teil 2 <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2023-6-2.pdf" target="_blank" rel="noopener">DGoZ 06/2023</a>
 	* Teil 3 <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2024-1-3.pdf" target="_blank" rel="noopener">01/2024</a>
 
-* Beitrag DGoZ 3/2024: Etwas über sein [»Lexikon des Tsume-Go«](https://senseis.xmp.net/?SegoeTsumegoDictionary), verfügbar in dem Unterverzeichnis [Beitrag-2024-03](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2024-03) - als direkter Zugang: <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-1.pdf" target="_blank" rel="noopener">Teil 1 </a> und <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-2.pdf" target="_blank" rel="noopener">Teil 2 </a>.
+* Beitrag DGoZ 3/2024: Etwas über sein [»Lexikon des Tsume-Go«](https://senseis.xmp.net/?SegoeTsumegoDictionary), verfügbar in dem Unterverzeichnis [Beitrag-2024-03](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2024-03) - <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-1.pdf" target="_blank" rel="noopener">Teil 1 </a> und <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-2.pdf" target="_blank" rel="noopener">Teil 2 </a> als direkter Zugang.
 
 #### Segoe Kensaku »Lexikon des Tsume-Go 詰碁辞典«
 
@@ -88,7 +88,7 @@ Here you can find the interactive files for my contributions to the [German Go J
 
 If you have any problems with the website, just [send me an email](mailto:ugroh@mac.com) and I'll be happy to help.
 
-The contributions listed below are available in SmartGo and EPUB format. A reader for the SmartGo format can be found in the App Store (see also [SmartGo)](https://smartgo.com/) and a reader for the EPUB format [for example with the readers presented in this article.](https://www.chip.de/news/E-Book-Tools-fuer-Windows-10-Das-sind-die-Top-3_182511780.html) Once you have obtained a suitable reader, you need to download the desired file: To do this, select it with the left mouse button and then download it in raw format (symbol on the far right with the downward arrow).
+The contributions listed below are available in SmartGo and EPUB format. A reader for the SmartGo format is built into [SmartGo V3](https://smartgo.com/) and a reader for the EPUB format on Windows is, for example, [Calibre E-Book.](https://calibre-ebook.com) Once you have obtained a suitable reader, you need to download the desired file: To do this, select it with the left mouse button and then download it in raw format (symbol on the far right with the downward arrow).
 
 #### About Five Books by Segoe Kensaku 瀬越憲作
 
