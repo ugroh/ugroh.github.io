@@ -6,7 +6,7 @@
 
 #### Beiträge zu DGoZ 
 
-Hier finden sich die interaktiven Dateien zu meinen Beiträgen in der [Deutschen Go-Zeitung](https://www.dgob.de/info-und-service/deutsche-go-zeitung/) – einfach mal ausprobieren! Alles, was blau unterlegt ist, verweist auf einen Link – einfach anklicken. Über die Links "PDF öffnen" lassen sich die jeweiligen PDFs direkt in einem neuen Tab öffnen.
+Hier finden sich die interaktiven Dateien zu meinen Beiträgen in der [Deutschen Go-Zeitung](https://www.dgob.de/info-und-service/deutsche-go-zeitung/) – einfach mal ausprobieren! Ein Klick auf die blau unterlegten Links öffnet den jeweiligen Beitrag bzw. das PDF direkt in einem neuen Tab.
 
 Bei Problemen mit der Webseite u.a. genügt [eine Mail an mich](mailto:ugroh@mac.com) und ich helfe gerne.
 
@@ -84,7 +84,7 @@ Here you will find supplements to the YouTube videos by Tobias Berben and the [E
 
 #### Contributions to DGoZ
 
-Here you can find the interactive files for my contributions to the [German Go Journal](https://www.dgob.de/info-und-service/deutsche-go-zeitung/). Just give them a try! Anything highlighted in blue is a link – just click on it. Use the "Open PDF" links to open the respective PDF directly in a new tab.
+Here you can find the interactive files for my contributions to the [German Go Journal](https://www.dgob.de/info-und-service/deutsche-go-zeitung/) – just give them a try! Anything highlighted in blue is a link – just click on it. Clicking on the links opens the respective PDF directly in a new tab.
 
 If you have any problems with the website, just [send me an email](mailto:ugroh@mac.com) and I'll be happy to help.
 
@@ -96,26 +96,24 @@ The contributions listed below are available in SmartGo and EPUB format. A reade
 
 All the contributions listed below can be found using the links highlighted in blue. The files can then be downloaded (see above).
 
-- Contribution DGoZ 2/2023: About [»Go Proverbs Illustrated«](https://senseis.xmp.net/?GoProverbsIllustrated) and about the [»Tesuji Dictionary«](https://senseis.xmp.net/?SegoeTesujiDictionary), available in the subdirectory [Beitrag-2023-02](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-02) or as a direct link <a href="https://ugroh.github.io/Beitrag-2023-02/Beitrag-DGoZ-2023-2.pdf" target="_blank" rel="noopener">Open PDF</a>
+- Contribution DGoZ 2/2023: About [»Go Proverbs Illustrated«](https://senseis.xmp.net/?GoProverbsIllustrated) and about the [»Tesuji Dictionary«](https://senseis.xmp.net/?SegoeTesujiDictionary), available in the subdirectory [Beitrag-2023-02](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-02) or as a direct link <a href="https://ugroh.github.io/Beitrag-2023-02/Beitrag-DGoZ-2023-2.pdf" target="_blank" rel="noopener">to the contribution</a>
 
-- Contribution DGoZ 3/2023: About the book [»Becoming Stronger«](https://senseis.xmp.net/?TheBookToIncreaseYourFightingStrengthAtGo), available in the subdirectory [Beitrag-2023-03](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-03) or as a direct link <a href="https://ugroh.github.io/Beitrag-2023-03/Beitrag-DGoZ-2023-3.pdf" target="_blank" rel="noopener">Open PDF</a>
+- Contribution DGoZ 3/2023: About the book [»Becoming Stronger«](https://senseis.xmp.net/?TheBookToIncreaseYourFightingStrengthAtGo), available in the subdirectory [Beitrag-2023-03](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-03) or as a direct link <a href="https://ugroh.github.io/Beitrag-2023-03/Beitrag-DGoZ-2023-3.pdf" target="_blank" rel="noopener">to the contribution</a>
 
 - Contribution DGoZ 5/2023, 06/2023 and 01/2024: Something about the [»Strategy Dictionary«](https://www.amazon.co.jp/作戦辞典-瀬越-憲作/dp/4416686013), available in the subdirectory [Beitrag-2023-05](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-05):
-	- Part 1 (DGoZ 5/2023) or as a direct link <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2023-5-1.pdf" target="_blank" rel="noopener">Open PDF</a>
-	- Part 2 (DGoZ 06/2023) or as a direct link <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2023-6-2.pdf" target="_blank" rel="noopener">Open PDF</a>
-	- Part 3 (DGoZ 01/2024) or as a direct link <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2024-1-3.pdf" target="_blank" rel="noopener">Open PDF</a>
+	- Part 1 <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2023-5-1.pdf" target="_blank" rel="noopener">DGoZ 5/2023</a>
+	- Part 2 <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2023-6-2.pdf" target="_blank" rel="noopener">DGoZ 06/2023</a>
+	- Part 3 <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2024-1-3.pdf" target="_blank" rel="noopener">01/2024</a>
 
-- Contribution DGoZ 3/2024: Something about his [»Tsume-Go Dictionary«](https://senseis.xmp.net/?SegoeTsumegoDictionary), available in the subdirectory [Beitrag-2024-03](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2024-03):
-	- Part 1 or as a direct link <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-1.pdf" target="_blank" rel="noopener">Open PDF</a>
-	- Part 2 or as a direct link <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-2.pdf" target="_blank" rel="noopener">Open PDF</a>
+- Contribution DGoZ 3/2024: Something about his [»Tsume-Go Dictionary«](https://senseis.xmp.net/?SegoeTsumegoDictionary), available in the subdirectory [Beitrag-2024-03](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2024-03) - <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-1.pdf" target="_blank" rel="noopener">Part 1 </a> and <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-2.pdf" target="_blank" rel="noopener">Part 2 </a> as direct access.
 
 #### Segoe Kensaku »Tsume-Go Dictionary 詰碁辞典«
 
 In addition to the contribution DGoZ 03/2024, I have begun to present the above-mentioned dictionary in more detail. This supplement also explains where the »book« is hidden on the IZIS Go Board.
 
-- In *Segoe-Kategorie.pdf* the 30 categories are discussed as they can be found in Segoe's book or as a direct link <a href="https://ugroh.github.io/Segoe-TsumeGo/Segoe-Kategorie.pdf" target="_blank" rel="noopener">Open PDF</a>
+- In *Segoe-Kategorie.pdf* the 30 categories are discussed as they can be found in the <a href="https://ugroh.github.io/Segoe-TsumeGo/Segoe-Kategorie.pdf" target="_blank" rel="noopener">book by Segoe.</a>
 
-- For all these categories, the first ten problems can be found as exercises and solutions in *Segoe-TsumeGo.pdf* or as a direct link <a href="https://ugroh.github.io/Segoe-TsumeGo/Segoe-TsumeGo.pdf" target="_blank" rel="noopener">Open PDF</a>
+- For all these categories, the first ten problems can be found as exercises and solutions in <a href="https://ugroh.github.io/Segoe-TsumeGo/Segoe-TsumeGo.pdf" target="_blank" rel="noopener">Segoe-TsumeGo.pdf</a>
 
 - For all those who would like to »read and solve« all of this interactively: *Segoe-TsumeGo.gobk* uses the [SmartGo program](https://smartgo.com/) and contains an overview of the categories and 10 problems each. There is also now an EPUB version that can also be used interactively with a suitable reader – such as the Apple Books app. All of this can be found in the subdirectory [Segoe-TsumeGo](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo).
 
@@ -132,15 +130,15 @@ The mentioned directories also contain the contributions from DGoZ in PDF format
 
 - *Contribution »Feeling«* This article deals with the evaluation of possible moves in the opening phase of a game and is an excerpt from a special issue of *Gekkan Go Gaku* – 別冊 月刊碁学 Monthly Go School – of the [Kansai Kiin](https://senseis.xmp.net/?KansaiKiIn). This article can be found [under this link.](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-Gefuehl)
 
-- *Contribution »Yose«* This article deals with finding the optimal way to play in the endgame. This is a contribution in *Gekkan Go Gaku* – 別冊 月刊碁学 Monthly Go School – of the Kansai Kiin, which appeared there regularly or as a direct link <a href="https://ugroh.github.io/Beitrag-Yose/Yose/yose-problem-igo.pdf" target="_blank" rel="noopener">Open PDF</a>
+- *Contribution »Yose«* This article deals with finding the optimal way to play in the endgame. This is a contribution in *Gekkan Go Gaku* – 別冊 月刊碁学 Monthly Go School – of the Kansai Kiin, which appeared there regularly, <a href="https://ugroh.github.io/Beitrag-Yose/Yose/yose-problem-igo.pdf" target="_blank" rel="noopener">which can be found here</a>
 
-- [100-AI-Joseki](https://github.com/ugroh/ugroh.github.io/tree/main/100-AI-Joseki) provides an overview of the 100 joseki in [the book of the same title](https://www.go-spiele.de/de/100-ai-joseki.html), as it does not contain an index or any other overview or as a direct link <a href="https://ugroh.github.io/100-AI-Joseki/100-AI-Joseki-Index.pdf" target="_blank" rel="noopener">Open PDF</a>
+- [100-AI-Joseki](https://github.com/ugroh/ugroh.github.io/tree/main/100-AI-Joseki) provides an overview of the 100 joseki in [the book of the same title](https://www.go-spiele.de/de/100-ai-joseki.html), as it does not contain an index or any other overview; <a href="https://ugroh.github.io/100-AI-Joseki/100-AI-Joseki-Index.pdf" target="_blank" rel="noopener">see also here.</a>
 
 - *Letter to the Editor about »The Match«* The SGF file mentioned in the letter to the editor can be found under [The-Match-Film](https://github.com/ugroh/ugroh.github.io/tree/main/The-Match-Film)
 
 - All games discussed in the book by [Shin Jinseo](https://senseis.xmp.net/?ShinJinseo) »*My Go Journey*« can be found in the subdirectory [ShinJinseo-Buch](https://github.com/ugroh/ugroh.github.io/tree/main/ShinJinseo-Buch)
 
-- *AlphaGo2Zero* Here you will find an index to the great book by M. Redmond and Chris Garlock; see [SmartGo Books](https://gobooks.com) or as a direct link <a href="https://ugroh.github.io/AlphaGo2Zero/AlpahaGo.pdf" target="_blank" rel="noopener">Open PDF</a>
+- *AlphaGo2Zero* Here you will find an index to the great book by M. Redmond and Chris Garlock; see [SmartGo Books](https://gobooks.com). The index can be found <a href="https://ugroh.github.io/AlphaGo2Zero/AlpahaGo.pdf" target="_blank" rel="noopener">behind this link.</a>
 
 #### IZIS AI Board
 
@@ -148,10 +146,10 @@ The following section is in English as it supplements English-language materials
 
 Here you will find supplements to the YouTube videos by Tobias Berben and the [English manual](http://121.41.64.145:8089/book/English%20Manual%20%20V2.pdf) for the [IZIS AI Board](https://eurogojournal.com/blog/ai-go-board/). These were created during the familiarization process with this Go board, and I hope they assist others in their initial steps. Anything highlighted in blue is a link – just click on it.
 
-- English Version: <a href="https://ugroh.github.io/IZIS/en-IZIS-Manual.pdf" target="_blank" rel="noopener">Open PDF</a>
+- <a href="https://ugroh.github.io/IZIS/en-IZIS-Manual.pdf" target="_blank" rel="noopener">English Version</a>
 
-- German Version: <a href="https://ugroh.github.io/IZIS/de-IZIS-Manual.pdf" target="_blank" rel="noopener">Open PDF</a>
+- <a href="https://ugroh.github.io/IZIS/de-IZIS-Manual.pdf" target="_blank" rel="noopener">German Version</a>
 
-- Supplement: Chinese Version of the Exercises, also in the above-mentioned manuals or as a direct link <a href="https://ugroh.github.io/IZIS/en-06-Ecercise-cn.pdf" target="_blank" rel="noopener">Open PDF</a>
+- Supplement: Chinese Version of the Exercises, also in the <a href="https://ugroh.github.io/IZIS/en-06-Ecercise-cn.pdf" target="_blank" rel="noopener">above-mentioned manuals</a>
 
 - Added (2024/05/05): Some information about Segoe [Kensaku "TsumeGo Jiten"](https://github.com/ugroh/ugroh.github.io/tree/main/Segoe-TsumeGo) and some information about the *Exercise Course Mode* section there, which contains some interesting exercises (presently in German).
