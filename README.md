@@ -27,7 +27,7 @@ Alle unten aufgeführten Beiträge findet man mithilfe der blau unterlegten Link
 	* Teil 2 <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2023-6-2.pdf" target="_blank" rel="noopener">DGoZ 06/2023</a>
 	* Teil 3 <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2024-1-3.pdf" target="_blank" rel="noopener">01/2024</a>
 
-* Beitrag DGoZ 3/2024: Etwas über sein [»Lexikon des Tsume-Go«](https://senseis.xmp.net/?SegoeTsumegoDictionary), verfügbar in dem Unterverzeichnis [Beitrag-2024-03](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2024-03) - <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-1.pdf" target="_blank" rel="noopener">Teil 1 </a> und <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-2.pdf" target="_blank" rel="noopener">Teil 2 </a> als direkter Zugang.
+* Beitrag DGoZ 3/2024: Etwas über sein [»Lexikon des Tsume-Go«](https://senseis.xmp.net/?SegoeTsumegoDictionary), verfügbar in dem Unterverzeichnis [Beitrag-2024-03](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2024-03) - als direkter Zugang: <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-1.pdf" target="_blank" rel="noopener">Teil 1 </a> und <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-2.pdf" target="_blank" rel="noopener">Teil 2 </a>.
 
 #### Segoe Kensaku »Lexikon des Tsume-Go 詰碁辞典«
 
@@ -60,7 +60,7 @@ In den genannten Verzeichnissen finden sich auch die Beiträge aus der DGoZ im P
 
 * Alle Spiele, die in dem Buch von [Shin Jinseo](https://senseis.xmp.net/?ShinJinseo) »*My Go Journey*« besprochen werden, finden sich in dem Unterverzeichnis [ShinJinseo-Buch](https://github.com/ugroh/ugroh.github.io/tree/main/ShinJinseo-Buch)
 
-* *AlphaGo2Zero* Dort findet sich ein Index zu dem tollen Buch von M. Redmond und Chris Garlock; siehe [SmartGo Books](https://gobooks.com). Der Index findet  <a href="https://ugroh.github.io/AlphaGo2Zero/AlpahaGo.pdf" target="_blank" rel="noopener">hinter diesenm Link.</a>
+* *AlphaGo2Zero* Dort findet sich ein Index zu dem tollen Buch von M. Redmond und Chris Garlock; siehe [SmartGo Books](https://gobooks.com). Der Index findet sich <a href="https://ugroh.github.io/AlphaGo2Zero/AlpahaGo.pdf" target="_blank" rel="noopener">hinter diesem Link.</a>
 
 #### IZIS AI Board 
 
@@ -84,7 +84,7 @@ Here you will find supplements to the YouTube videos by Tobias Berben and the [E
 
 #### Contributions to DGoZ
 
-Here you can find the interactive files for my contributions to the [German Go Journal](https://www.dgob.de/info-und-service/deutsche-go-zeitung/) – just give them a try! Anything highlighted in blue is a link – just click on it. Clicking on the links opens the respective PDF directly in a new tab.
+Here you can find the interactive files for my contributions to the [German Go Journal](https://www.dgob.de/info-und-service/deutsche-go-zeitung/) – just give them a try! Clicking on the blue-highlighted links opens the respective contribution or PDF directly in a new tab.
 
 If you have any problems with the website, just [send me an email](mailto:ugroh@mac.com) and I'll be happy to help.
 
