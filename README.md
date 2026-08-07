@@ -24,12 +24,12 @@ Alle unten aufgeführten Beiträge findet man mithilfe der blau unterlegten Link
 
 * Beitrag DGoZ 5/2023, 06/2023 und 01/2024: Etwas zum [»Lexikon der Strategie«](https://www.amazon.co.jp/作戦辞典-瀬越-憲作/dp/4416686013), verfügbar in dem Unterverzeichnis [Beitrag-2023-05](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2023-05):
 	* Teil 1 <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2023-5-1.pdf" target="_blank" rel="noopener">DGoZ 5/2023</a>
-	* Teil 2 (DGoZ 06/2023) oder als direkter Link <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2023-6-2.pdf" target="_blank" rel="noopener">PDF öffnen</a>
-	* Teil 3 (DGoZ 01/2024) oder als direkter Link <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2024-1-3.pdf" target="_blank" rel="noopener">PDF öffnen</a>
+	* Teil 2 <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2023-6-2.pdf" target="_blank" rel="noopener">DGoZ 06/2023</a>
+	* Teil 3 <a href="https://ugroh.github.io/Beitrag-2023-05/Beitrag-DGoZ-2024-1-3.pdf" target="_blank" rel="noopener">01/2024</a>
 
 * Beitrag DGoZ 3/2024: Etwas über sein [»Lexikon des Tsume-Go«](https://senseis.xmp.net/?SegoeTsumegoDictionary), verfügbar in dem Unterverzeichnis [Beitrag-2024-03](https://github.com/ugroh/ugroh.github.io/tree/main/Beitrag-2024-03):
-	* Teil 1 oder als direkter Link <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-1.pdf" target="_blank" rel="noopener">PDF öffnen</a>
-	* Teil 2 oder als direkter Link <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-2.pdf" target="_blank" rel="noopener">PDF öffnen</a>
+	* <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-1.pdf" target="_blank" rel="noopener">Teil 1 </a>
+	* <a href="https://ugroh.github.io/Beitrag-2024-03/Beitrag-DGoZ-2024-3-2.pdf" target="_blank" rel="noopener">Teil 2 </a>
 
 #### Segoe Kensaku »Lexikon des Tsume-Go 詰碁辞典«
 
