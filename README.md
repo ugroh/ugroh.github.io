@@ -6,7 +6,7 @@
 
 ####  Vorträge
 
-Im Rahmen von »Mathematik am Mittag« habe ich einen Vortrag zur Archimedes gehalten. Dieser findet sicu unter *Archimedes*.                              
+Im Rahmen von »Mathematik am Mittag« habe ich einen Vortrag zur Archimedes gehalten. Dieser findet sich, nebst dem Sprechertext,  unter [*Archimedes*](https://github.com/ugroh/ugroh.github.io/tree/main/Archimedes).                              
 
 #### Beiträge zu DGoZ 
 
