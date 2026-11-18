@@ -1,8 +1,12 @@
-### Inhalt von `ugroh.github.io` (Stand 2026-08-07)
+### Inhalt von `ugroh.github.io` (Stand 2026-11-18)
 
 [Kontakt](mailto:ugroh@mac.com) 
 
-[English Version](#english-version)                                                       
+[English Version](#english-version)                   
+
+####  Vorträge
+
+Im Rahmen von »Mathematik am Mittag« habe ich einen Vortrag zur Archimedes gehalten. Dieser findet sicu unter *Archimedes*.                              
 
 #### Beiträge zu DGoZ 
 
